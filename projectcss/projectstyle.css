@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+
+* {
+  margin:0;
+  padding:0;
+}
+
+body {
+  background-color: skyblue;
+  font-family: 'Special Elite', cursive;
+  text-align: center;
+}
+
+#sketch {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  z-index: -999;
+}
